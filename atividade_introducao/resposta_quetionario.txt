@@ -1,0 +1,28 @@
+Matheus Ribeiro
+RA:1460682023013
+
+Exercícios:
+1.
+SigmaNest
+254 é um dado.
+Dizer que 254mm é uma distância no eixo x configura informção.
+Dizer que à 254mm no eixo x e 100mm no eixo Y é o centro de um diâmetro isto é conhecimento.  
+2. 
+M=77 = 0100 1101
+A=65 = 0100 0001
+T=84 = 0101 0100 
+H=72 = 0100 1000
+E=69 = 0100 0101
+U=85 = 0101 0101
+S=83 = 0101 0011
+[SPACE]=32 = 0100 0000	
+R=82 = 0101 0010
+I=73 = 0100 1001
+B=66 = 0100 0010
+E=69 = 0100 0101
+I=73 = 0100 1001
+R=82 = 0101 0010
+O=79 = 0100 1111
+
+3.
+https://www.dell.com/pt-br/shop/notebooks-desktops-escolha-sua-loja/cp/notebooks-desktops-escolha-sua-loja?gacd=9657105-15013-5761040-275878141-0&dgc=ST&cid=71700000068833273&&gclid=EAIaIQobChMI5-eloPra6wIVBwuRCh1gKgDdEAAYASAAEgKkvPD_BwE&gclsrc=aw.ds
